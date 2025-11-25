@@ -1,0 +1,1 @@
+la notacion cambia de big O de n^2 a nlogn por que pasa de ver cada una de las posibilidades una a una a dividir toda las opciones en grupos de dos hasta su nivel mas basico
